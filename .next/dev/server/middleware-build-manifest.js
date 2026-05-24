@@ -4,7 +4,7 @@ globalThis.__BUILD_MANIFEST = {
   },
   "devFiles": [],
   "polyfillFiles": [
-    "static/chunks/05y2_next_dist_build_polyfills_polyfill-nomodule.js"
+    "static/chunks/node_modules_next_dist_build_polyfills_polyfill-nomodule.js"
   ],
   "lowPriorityFiles": [
     "static/development/_buildManifest.js",
@@ -12,15 +12,15 @@ globalThis.__BUILD_MANIFEST = {
     "static/development/_clientMiddlewareManifest.js"
   ],
   "rootMainFiles": [
-    "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_020lx_v._.js",
-    "static/chunks/05y2_next_dist_compiled_next-devtools_index_0-4ucuy.js",
-    "static/chunks/05y2_next_dist_compiled_react-dom_0vi0428._.js",
-    "static/chunks/05y2_next_dist_compiled_react-server-dom-turbopack_0ado-x_._.js",
-    "static/chunks/05y2_next_dist_compiled_0v1_d59._.js",
-    "static/chunks/05y2_next_dist_client_12r8xuk._.js",
-    "static/chunks/05y2_next_dist_0w._r7j._.js",
-    "static/chunks/05y2_@swc_helpers_cjs_0g0mxq_._.js",
-    "static/chunks/Code Projects_codewinxwebsite_codewinxitsolutionllp_0rqeker._.js",
-    "static/chunks/turbopack-Code Projects_codewinxwebsite_codewinxitsolutionllp_0xleh3.._.js"
+    "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_10z625~._.js",
+    "static/chunks/node_modules_next_dist_compiled_next-devtools_index_0553esy.js",
+    "static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js",
+    "static/chunks/node_modules_next_dist_compiled_react-server-dom-turbopack_0p3wegg._.js",
+    "static/chunks/node_modules_next_dist_compiled_0rpq4pf._.js",
+    "static/chunks/node_modules_next_dist_client_0fhqo1d._.js",
+    "static/chunks/node_modules_next_dist_115brz8._.js",
+    "static/chunks/node_modules_@swc_helpers_cjs_0-4ujiy._.js",
+    "static/chunks/_0rqeker._.js",
+    "static/chunks/turbopack-_0p44nws._.js"
   ]
 };
